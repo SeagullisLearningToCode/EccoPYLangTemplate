@@ -1,6 +1,12 @@
 # EccoPYLangTemplate
 This is a template for those who want to localize EccoPY in a different Langauge. (Expect this to be updated)
 
+The code in EccoPY has already been translated in...
+- English
+- German
+- Japanese
+- Hungarian
+
 # Documentation
 In-Game Strings
 - yt_friendly = Is just to change the string for the Watermark
