@@ -7,6 +7,9 @@ The code in EccoPY has already been translated in...
 - Japanese
 - Hungarian
 
+When EccoPY gets released the folder to store these are in...
+**dataE\dataTXT\Labels\Lang\<Insert Langauge Name Here>\<Insert Name Here>.py**
+
 # Documentation
 In-Game Strings
 - yt_friendly = Is just to change the string for the Watermark
