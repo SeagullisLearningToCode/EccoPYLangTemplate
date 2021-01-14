@@ -22,4 +22,4 @@ Warning Screen Strings
 
 Note: using ISO 639-1 isn't required but it's a shorter way of doing things in my eyes
 
-Also note that in Japanese.py, it's the same thing as English.py except that str3 in Warning Screen Strings is slight longer than English.py.
+Also note that in Japanese.py, it's the same thing as English.py except that str3 in Warning Screen Strings is slightly longer than English.py.
