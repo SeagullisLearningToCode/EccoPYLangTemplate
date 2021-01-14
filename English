@@ -7,7 +7,7 @@ hp_txt = "Health"
 air_txt = "O2"
 tit_bttm_txt = "PC Remake Concept"
 if yt_friendly is False:
-    wtrmark_txt = "SIS Programming (2021)"
+    wtrmark_txt = "SIS Programming (2021)" # Insert fake company name here
 elif yt_friendly == "Nothing":
     wtrmark_txt = f"/--_ BETA: {td}"
 else:
