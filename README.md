@@ -11,6 +11,17 @@ When EccoPY gets released the folder to store these are in...
 
 **dataE\dataTXT\Labels\Lang\<Insert Langauge Name Here>\<Insert Name Here>.py**
 
+# Restrictions
+Yes, there are restrictions to this due to how Pygame works
+You can't...
+- use the new line operation "\n"
+- more will be listed here, I hadn't used this alot, this list will be updated when I find a new limitation.
+
+If you don't know how text input works in Pygame, then click the links below
+- [https://www.pygame.org/docs/ref/font.html] (Font)
+- [https://www.pygame.org/docs/ref/freetype.html] (FreeType)
+
+
 # Documentation
 In-Game Strings
 - yt_friendly = Is just to change the string for the Watermark
