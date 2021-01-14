@@ -1,7 +1,7 @@
 # EccoPYLangTemplate
 This is a template for those who want to localize EccoPY in a different Langauge. (Expect this to be updated)
 
-# Explanation for each Definition
+# Documentation
 In-Game Strings
 - yt_friendly = Is just to change the string for the Watermark
 - hp_txt = Is the Health bar text which is located inside the health bar (of course)
