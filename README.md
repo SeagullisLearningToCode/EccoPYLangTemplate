@@ -31,10 +31,8 @@ In-Game Strings
 - wtrmark_txt = Is placed the bottom-right as a watermark
 
 Warning Screen Strings
-- <langauge in ISO 639-1>_ws_str1 = Placed at Center Top
-- <langauge in ISO 639-1>_ws_str2 = Placed at the near middle
-- <langauge in ISO 639-1>_ws_str3 = Placed at below str2 as if it was a new line
+- e_ws_str1 = Placed at Center Top
+- e_ws_str2 = Placed at the near middle
+- e_ws_str3 = Placed at below str2 as if it was a new line
 
-Note: using ISO 639-1 isn't required but it's a shorter way of doing things in my eyes
-
-Also note that in Japanese.py, it's the same thing as English.py except that str3 in Warning Screen Strings is slightly longer than English.py.
+Note that in Japanese.py, it's the same thing as English.py except that str3 in Warning Screen Strings is slightly longer than English.py.
