@@ -1,5 +1,5 @@
 from datetime import *
-td = datetime.now()
+td = date.today() # More simple than "datetime.now()"
 
 # Strings --> Ingame and HUD
 yt_friendly = "Nothing"
