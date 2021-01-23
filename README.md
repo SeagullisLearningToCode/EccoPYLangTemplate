@@ -2,7 +2,7 @@
 This is a template for those who want to localize EccoPY in a different Langauge. (Expect this to be updated)
 
 The code in EccoPY has already been translated in...
-- English
+- English (There is also a sub-langauge which is there as a joke)
 - German
 - Japanese
 - Hungarian
