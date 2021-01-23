@@ -1,6 +1,6 @@
 # Japanese (Google Translated)
 from datetime import *
-td = datetime.now()
+td = date.today() # 「datetime.now（）」よりも単純です
 
 # Strings
 yt_friendly = "何もない"
