@@ -1,6 +1,8 @@
 # Japanese (Google Translated)
 from datetime import *
 td = date.today() # 「datetime.now（）」よりも単純です
+td_c_s = str(td) # 現在の日付を文字列に変換します
+td_c_s_yo = td_c_s[0:4] # 年のみ取得
 
 # Strings
 yt_friendly = "何もない"
